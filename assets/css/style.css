@@ -327,9 +327,12 @@ body {
     font-size: 17px;
   }
 }
-.attribution {
+footer {
   position: fixed;
   bottom: 0;
+}
+
+.attribution {
   font-size: 11px;
   text-align: center;
 }
