@@ -45,7 +45,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/calculator-app-using-html-sass-and-javascript-4nstkUsot)
-- Live Site URL: [Add live site URL here](https://ishan-sanjaya.github.io/calculator-app/)
+- Live Site URL: [Add live site URL here](https://luke-fernando.github.io/calculator-app/)
 
 ## My process
 
